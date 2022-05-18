@@ -62,21 +62,6 @@ function activateMenuAtCurrentSection(section) {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 function showBackToTopButtonOnScroll(){
     if(scrollY > 650){
         backToTopButton.classList.add('show')
@@ -84,8 +69,6 @@ function showBackToTopButtonOnScroll(){
         backToTopButton.classList.remove('show')
     }
 }
-
-
 
 function openMenu(){
     document.body.classList.add('menu-expanded')

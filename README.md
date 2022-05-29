@@ -9,7 +9,7 @@
 
 [DoctorCare](https://emily-sousa.github.io/doctorcare/) é um projeto de convênio médico desenvolvido durante a Next Level Week #8 da RocketSeat. 
 Este web site tem o foco em aprimorar minhas habilidades em Front-end.
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/88735994/170875517-189cd39d-490c-4306-b102-5e6a937f8124.png">
+[![demo](https://user-images.githubusercontent.com/88735994/170875517-189cd39d-490c-4306-b102-5e6a937f8124.png)](https://emily-sousa.github.io/doctorcare/)
 
 ## 🛠️ Tecnologias utilizadas
 * ``HTML``

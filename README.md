@@ -1,5 +1,3 @@
-
-# doctorcare
 <h1 align="center"> DoctorCare </h1>
 
 <div align="center">
